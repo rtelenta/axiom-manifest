@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "notes": "New features and bug fixes",
-  "pub_date": "2026-01-20T18:04:00Z",
+  "pub_date": "2026-01-20T18:08:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/rtelenta/axiom-manifest/refs/heads/master/Eva_0.1.6_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVp2cFpaQTdLakxDVTJ0UEEwRDg0RFh6SmgyTEJjR25ZbE9TRjZTakZtWlFNNkJQNExBTVVHOUdGMUk3ZWcvLytHcWxESkRWYUlVR0VYM1hwS0JzZERCNnhtYW55NlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTUyODI1CWZpbGU6RXZhXzAuMS42X3g2NF9lbi1VUy5tc2kKQnh0anJNR2NydlRqRTlvZFh3MjBjS0hYVmMwdXo3eWFCZFlEZkRtbk9ydzBDODhFWWpadDVyY0JISHVjWm54anE4RDg5RUdaVnFSQzI4eVVNbjQ1QUE9PQo="
+      "url": "https://raw.githubusercontent.com/rtelenta/axiom-manifest/refs/heads/master/Eva_0.1.7_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVp2cFpaQTdLalBzSEMrV1hxR2xpQzhRNDRwQnd5aTBvNUdheHlZdWlwdi9iVG5FYWNwblRKSHRxamFvRkwwbWVDaitHTzdLdXF3aDE2ajhqN3lwaVNKUG9vWXM2MVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTUzMTA4CWZpbGU6RXZhXzAuMS43X3g2NF9lbi1VUy5tc2kKMkNCaStHOS9lVVJRMFlLayt5V1ZkbDQ4U0FHdFd3cUdFOVBrTXVLQ2xPQU1OcFFnb1IxVGNrNVUyK3NXaTBUd01MRGwvMjlTNXpEaU80YU9SRnRZRFE9PQo="
     }
   }
 }
