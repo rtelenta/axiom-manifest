@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "notes": "New features and bug fixes",
-  "pub_date": "2026-01-20T18:01:00Z",
+  "pub_date": "2026-01-20T18:02:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/rtelenta/axiom-manifest/refs/heads/master/Eva_0.1.3_x64_en-US.msi",
