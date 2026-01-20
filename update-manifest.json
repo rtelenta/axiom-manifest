@@ -4,7 +4,7 @@
   "pub_date": "2026-01-20T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://your-server.com/downloads/Eva_0.2.0_x64-setup.exe",
+      "url": "https://github.com/rtelenta/axiom-manifest/raw/refs/heads/master/Eva_0.1.0_x64-setup.exe",
       "signature": ""
     }
   }
