@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "New features and bug fixes",
+  "pub_date": "2026-01-20T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://your-server.com/downloads/Eva_0.2.0_x64-setup.exe",
+      "signature": ""
+    }
+  }
+}
