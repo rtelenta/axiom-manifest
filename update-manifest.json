@@ -4,8 +4,7 @@
   "pub_date": "2026-01-20T18:03:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/rtelenta/axiom-manifest/refs/heads/master/Eva_0.1.5_x64_en-US.msi",
-      "signature": ""
+      "url": "https://raw.githubusercontent.com/rtelenta/axiom-manifest/refs/heads/master/Eva_0.1.5_x64_en-US.msi"
     }
   }
 }
