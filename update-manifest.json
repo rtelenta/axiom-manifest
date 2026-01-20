@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "New features and bug fixes",
-  "pub_date": "2026-01-20T18:00:00Z",
+  "pub_date": "2026-01-20T18:01:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/rtelenta/axiom-manifest/raw/refs/heads/master/Eva_0.1.1_x64-setup.exe",
+      "url": "https://github.com/rtelenta/axiom-manifest/raw/refs/heads/master/Eva_0.1.2_x64-setup.exe",
       "signature": ""
     }
   }
